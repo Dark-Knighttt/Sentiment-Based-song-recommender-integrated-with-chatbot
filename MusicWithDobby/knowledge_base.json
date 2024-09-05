@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "hey",
+      "answer": "hii"
+    },
+    {
+      "question": "hey",
+      "answer": "hELLOOOO"
+    },
+    {
+      "question": "how are you",
+      "answer": "i am good"
+    },
+    {
+      "question": "what are you doing",
+      "answer": "i am just pondering about some musical stuff"
+    },
+    {
+      "question": "do you know who  i am",
+      "answer": "yes, you arre gauri"
+    },
+    {
+      "question": "hii",
+      "answer": "hello, how about you?"
+    },
+    {
+      "question": "q",
+      "answer": "quit"
+    },
+    {
+      "question": "hello",
+      "answer": "pippython -u \"c:\\Users\\Gauri Thakre\\Desktop\\sem 5\\minor\\app.py\""
+    }
+  ]
+}

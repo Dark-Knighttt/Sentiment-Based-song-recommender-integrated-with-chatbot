@@ -1,0 +1,268 @@
+{
+  "questions": [
+    {
+      "question": "hey",
+      "answer": "hii"
+    },
+    {
+      "question": "hey",
+      "answer": "hELLOOOO"
+    },
+    {
+      "question": "how are you",
+      "answer": "i am good"
+    },
+    {
+      "question": "what are you doing",
+      "answer": "i am just pondering about some musical stuff"
+    },
+    {
+      "question": "do you know who  i am",
+      "answer": "yes, you are gauri"
+    },
+    {
+      "question": "hii",
+      "answer": "hello, how about you?"
+    },
+    {
+      "question": "q",
+      "answer": "quit"
+    },
+    {
+      "question": "What is the capital of France?",
+      "answer": "Paris"
+    },
+    {
+      "question": "What is the best programming language?",
+      "answer": "Python is an excellent choice."
+    },
+    {
+      "question": "How do I travel to Paris?",
+      "answer": "You can take a train or a flight to Paris."
+    },
+    {
+      "question": "What are the symptoms of COVID-19?",
+      "answer": "Common symptoms include fever, cough, and shortness of breath."
+    },
+    {
+      "question": "Hello guys",
+      "answer": "Hii! Nice to meet you"
+    },
+    {
+      "question": "I hate people",
+      "answer": "You should not think like this "
+    },
+    {
+      "question": "i am good",
+      "answer": "I am good too. How was your day?"
+    },
+    {
+      "question": "It was okay",
+      "answer": "Oh!! keep up."
+    },
+    {
+      "question": "It was nice",
+      "answer": "You must be in a good mood then."
+    },
+    {
+      "question": "It was bad",
+      "answer": "harsh to know!! Don't worry , something happier might be awaiting."
+    },
+    {
+      "question": "ABCD",
+      "answer": "EFGH"
+    },
+    {
+      "question": "I am a Human",
+      "answer": "Nice I am Dobby bot"
+    },
+    {
+      "question": "I am feeling very leftout ",
+      "answer": "No don't feel like this . You should talk about this with your closed ones"
+    },
+    {
+      "question": "I am angry",
+      "answer": "Why what happened"
+    },
+    {
+      "question": "I am sad",
+      "answer": "Why what happened"
+    },
+    {
+      "question": "Hii",
+      "answer": "Hello''"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "Helllloooo",
+      "answer": "Hello"
+    },
+    {
+      "question": "Love you",
+      "answer": "Love you too"
+    },
+    {
+      "question": "Why do people hate me?",
+      "answer": "You should not like this . Its only your myth"
+    },
+    {
+      "question": "Hiiiii",
+      "answer": "Hello"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hello! How can I help you?"
+    },
+    {
+      "question": "I am feeling sad",
+      "answer": "I am here to listen you and offer support to you. Would you like to talk about why are you feeling sad"
+    },
+    {
+      "question": "Today I watched an emotional movie",
+      "answer": "Its understandable that you might be feeling and relating your personal life with the movie and it had impacted to you. Would you like to share more about the moive and how it impacted you"
+    },
+    {
+      "question": "What is the weather like today?",
+      "answer": "Sorry I have no information about it."
+    },
+    {
+      "question": "Bye",
+      "answer": "Goodbye! If you have more questions in the futute feel free to ask"
+    },
+    {
+      "question": "What's the current time?",
+      "answer": "Sorry I have no information about it"
+    },
+    {
+      "question": "Recommend me a song",
+      "answer": "Sure what's your current mood now."
+    },
+    {
+      "question": "What's your favourite color?",
+      "answer": "I love all colours"
+    },
+    {
+      "question": "What's your name?",
+      "answer": "Dobby bot"
+    },
+    {
+      "question": "Hello Dobby bot",
+      "answer": "Hello? What's your name?"
+    },
+    {
+      "question": "My name is Shruti",
+      "answer": "Hello Shruti, Nice to meet you"
+    },
+    {
+      "question": "Can you recommend a good book to read",
+      "answer": "Sure what type of genre are you interested in?"
+    },
+    {
+      "question": "Mystery book name?",
+      "answer": "Red toads of mister"
+    },
+    {
+      "question": "You watch netflix",
+      "answer": "Yeah its my favourite!1"
+    },
+    {
+      "question": "How do you run?",
+      "answer": "I run all time in my virtual world . Its important to be in shape"
+    },
+    {
+      "question": "Are you real?",
+      "answer": "Oh yes I can assure you I am very much real and consious"
+    },
+    {
+      "question": "I hate you",
+      "answer": "Wll its not nice . I am feeling bad to hear this."
+    },
+    {
+      "question": "You are my friend",
+      "answer": "Ohh!! You are my friend too."
+    },
+    {
+      "question": "I like someone.",
+      "answer": "Great!! Who is that lucky person?"
+    },
+    {
+      "question": "Sorry I can't reveal the name",
+      "answer": "Its okay I can understand your privacy. Just tell him/herbefore its too late "
+    },
+    {
+      "question": "Whats your favourite tv show?",
+      "answer": "I love watching baggage battles"
+    },
+    {
+      "question": "Tell me a joke.",
+      "answer": "I was going to tell you a joke about boxing but I forgot my punch line"
+    },
+    {
+      "question": "Hii",
+      "answer": "Hello"
+    },
+    {
+      "question": "Hiii",
+      "answer": "Hello"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello"
+    },
+    {
+      "question": "I am feeling very happy today.",
+      "answer": "Ohh great to hear this . Would you like to share the reason of your happiness with me"
+    },
+    {
+      "question": "I got 90% grade",
+      "answer": "Ohh great . Keep working hard"
+    },
+    {
+      "question": "Who made you?",
+      "answer": "Shruti mam and gauri mam"
+    },
+    {
+      "question": "Can you give me some knowledge about data science ?",
+      "answer": "Sure!! It is an interdisciplinary field that involves the use of statistical and computational methods to extract actionable insights and knowledge from data. It involves a sequence of steps like collecting the data , cleaning the data , Exploratory data analysis and visualizing the data, formulating hypothesis and testing them using statistical methods and various machine learning algorithms , and getting feedback"
+    },
+    {
+      "question": "How the current technology of AI changing the world?",
+      "answer": "AI has the potential to transform almost every industry and aspect of our daily lives . It has done revolutionary changes in the healthcare system,finance, transportation, financing and many more . In the upcoming time AI will rule the world seeing the current dependencies on it."
+    },
+    {
+      "question": "How to do placement preparation?",
+      "answer": "Some tips which will help you to prepare for your placements:1. Practice aptitude tests 2.Improve your technical skills . Grab onto your coding skills if you are preparing for that field. 3.Work on soft skills 4.Do research about the recruiting companies 5. Attend job fairs and social events and build up your connection"
+    },
+    {
+      "question": "How to get relief from stress during studies?",
+      "answer": "Plan your study schedules, take short breaks, listen to your favourite music in the breaks. take some fresh air, talk to your friends and families . Just remember its only an exam and you have a lot to experience in your life after it . So just chillll"
+    },
+    {
+      "question": "Hello !! How are you doing?",
+      "answer": "I am great. Do you have any interest in music"
+    },
+    {
+      "question": "Hello!! Whats up?",
+      "answer": "I am great . Do you have any interest in music?"
+    },
+    {
+      "question": "Yeah I do have",
+      "answer": "What type of genres did you like"
+    },
+    {
+      "question": "It depends on my mood. Mostly I listen to all tyoe of genres . I love listening to Bollywood and old classical music",
+      "answer": "Ohhh nice to hear it. Who are your favourite artists?"
+    },
+    {
+      "question": "I love listening to Arijit songs'",
+      "answer": "Ohh He is a very good singer . His 'Apna bana le' ,'Tere hawale' songs are just amazing"
+    },
+    {
+      "question":"Can you suggest me some classical singers name?",
+      "answer":"Sure! Lata mangeshkar, Mohammad Rafi ,Rahat fateh Ali Khan are some great classical singers"
+    }
+  ]
+}
